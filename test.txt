@@ -1,0 +1,3 @@
+PIL  = Python Image Library
+
+PILLOW
